@@ -52,7 +52,8 @@ I am a dedicated **Frontend & React.js Developer** and **Software Engineering st
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaidrees155&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></p>
 </div>
----
+
+---------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
   <i>"Transforming complex logic into seamless digital experiences." ✨</i>
