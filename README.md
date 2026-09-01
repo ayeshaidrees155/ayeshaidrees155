@@ -47,17 +47,11 @@ I am a dedicated **Frontend & React.js Developer** and **Software Engineering st
 
 ### 📊 GitHub Activity & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaidrees155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ayesha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaidrees155&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaidrees155&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaidrees155&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
+ 
+</div>
 
 ---
 
