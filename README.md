@@ -1,58 +1,66 @@
-### Hi there, I'm Ayesha Idrees 👋
+<div align="center">
+
+# ✨ Hi there, I'm Ayesha Idrees 👋
+
+### ⚛️ Frontend & React.js Developer | Crafting Modern Web Experiences
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-idrees1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshaidrees155)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayesha.idrees155@gmail.com)
+
+</div>
 
 ---
 
-### 💻 About Me
-I am an undergraduate Software Engineering student and a passionate **Frontend Developer** based in Faisalabad, Pakistan. I specialize in turning complex logic and creative ideas into pixel-perfect, accessible, and responsive user interfaces using modern web technologies.
+### 💡 About Me
+I am a dedicated **Frontend & React.js Developer** and **Software Engineering student** based in Faisalabad, Pakistan, specializing in building high-performance, scalable, and responsive web applications. I turn complex logic and creative concepts into seamless, interactive user interfaces using modern component architectures.
 
-* 🌱 I’m currently expanding my expertise in advanced React patterns and immersive UI/UX design.
-* ⚡ Fun fact: I love blending clean code with elegant color palettes to craft seamless user experiences.
-
----
-
-### 🎯 Current Focus & Learning
-* **Advanced React & State Management:** Deepening my knowledge of custom hooks, component lifecycle management, and global state handling (Redux Toolkit).
-* **Modern UI Engineering:** Perfecting responsive design principles using Tailwind CSS v4 and Material UI (MUI).
-* **Academic Growth:** Applying software engineering principles, database normalization, and structured algorithms to real-world frontend applications.
+* 🌱 **Currently exploring:** Advanced React patterns, custom hooks, and scalable global state management architectures.
+* ⚡ **Core philosophy:** Writing clean, maintainable code paired with robust state handling to deliver exceptional digital experiences.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<p>
+### 🛠️ Tech Stack & Toolkit
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind,mui,git,github,vscode" alt="Tech Stack Icons" />
 </p>
 
-* **Frontend:** React.js, Vite, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Material UI (MUI)
-* **Tools & Environment:** Git, GitHub, Visual Studio Code, Vercel, Overleaf (LaTeX)
-* **Core Concepts:** REST APIs, Async/Await, DOM Manipulation, Responsive Web Design, State Management
-
----
-
-### 🤝 Soft Skills & Attributes
-* **Problem-Solving & Analytical Thinking:** Enjoy breaking down complex features into manageable, reusable component structures.
-* **Continuous Learning:** Always eager to adopt modern tools, clean code standards, and industry best practices.
-* **Attention to Detail:** Focused on delivering clean aesthetics, precise layouts, and smooth user interactions.
+* **Frontend Frameworks & Libraries:** React.js, Vite, JavaScript (ES6+), HTML5, CSS3
+* **Styling & Component Libraries:** Tailwind CSS, Material UI (MUI)
+* **Tools & Workflow:** Git, GitHub, Visual Studio Code, Vercel, Overleaf (LaTeX)
+* **Core Concepts:** RESTful APIs, Asynchronous Programming, DOM Manipulation, Responsive Web Design, State Management
 
 ---
 
 ### 🚀 Featured Projects
-Here are some of my key projects showcasing my frontend development skills:
 
-| Project Name | Description | Tech Stack | Live Demo |
+| Project Name | Description | Tech Stack | Live Preview |
 | :--- | :--- | :--- | :--- |
-| **Ayesha Portfolio** | A modern, responsive personal portfolio featuring a custom intro splash screen and fluid navigation. | React, Vite, Tailwind CSS, MUI | [View Live](https://ayesha-portfolio.vercel.app) |
-| **Food Funday** | An interactive recipe exploration app with search functionality and detailed ingredient views via public APIs. | JavaScript, REST API, HTML/CSS | [View Live](https://ayesha-foodfunday.vercel.app/) |
-| **Live Weather Forecast** | Real-time weather forecasting tool providing current temperatures, humidity, and atmospheric data. | JavaScript, REST API, Async/Await | [View Live](https://ayesha-weather-forecast.vercel.app) |
-| **Sticky Notes App** | Creative note-taking application featuring custom tilted tape headers and local storage persistence. | JavaScript, DOM Manipulation, CSS | [View Live](https://ayesha-sticky-notes-app.vercel.app/) |
+| **🛍️ Ashion E-Commerce** | A multi-category e-commerce web application featuring product filtering, cart management, and local storage state. | React.js, ES6, CSS, Tailwind CSS | [🔗 Live Demo](https://ayesha-ashion-ecommerce-store.vercel.app/) |
+| **📊 Mophy Payment Dashboard** | An administrative dashboard interface for tracking payment analytics, transactions, and financial metrics. | React.js, Material UI, Tailwind CSS | [🔗 Live Demo](https://mophy-payment-admin-dashboard.vercel.app/) |
+| **🍳 Food Funday** | An interactive culinary recipe exploration app utilizing public APIs for dynamic search and ingredient views. | JavaScript, REST API, HTML/CSS | [🔗 Live Demo](https://ayesha-foodfunday.vercel.app/) |
+| **🌤️ Live Weather Forecast** | Real-time weather forecasting tool providing current temperatures, humidity, and atmospheric data. | JavaScript, REST API, Async/Await | [🔗 Live Demo](https://ayesha-weather-forecast.vercel.app/) |
+| **📚 Book Finder Store** | A book discovery platform integrating external libraries for title searching and detailed descriptions. | React.js, Tailwind CSS, APIs | [🔗 Live Demo](https://ayesha-book-finder-store.vercel.app/) |
 
 ---
 
-### 📬 Connect With Me
-* **Email:** ayesha.idrees155@gmail.com
-* **LinkedIn:** [Ayesha Idrees](https://www.linkedin.com/in/ayesha-idrees1)
-* **GitHub:** [@ayeshaidrees155](https://github.com/ayeshaidrees155)
+### 📊 GitHub Activity & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaidrees155&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ayesha's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaidrees155&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaidrees155&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
+
 <div align="center">
-  <i>"Transforming ideas into seamless digital experiences." ✨</i>
+  <i>"Transforming complex logic into seamless digital experiences." ✨</i>
 </div>
